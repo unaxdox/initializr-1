@@ -1,6 +1,5 @@
 {
     "name": "initializr Project",
-    "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
     "postCreateCommand": "npm install -g http-server",
     "customizations": {
         "vscode": {
